@@ -1,0 +1,187 @@
+.page
+	{
+		border-radius: 5px;
+		border: 3px solid black;
+		padding: 20px;
+		margin: 30px;
+		font-size: 1.2em ;
+		font-family: verdana;
+		height:1100px;
+		width:1200px;
+	}
+
+
+.entete
+	{
+		border-radius: 5px;
+		height: 200px;
+		width: 100%;
+		border: 3px solid cyan;
+		box-shadow: 2px 2px 2px cyan ;
+	}
+
+.info
+	{
+		border-radius: 5px;
+		border: 2px solid yellow;
+		float: left;
+		box-shadow: 2px 2px 2px yellow;
+		height: 140px;
+		margin-top:40px;
+		margin-left: 10px;
+		width: 40%;
+
+	}
+
+.photo
+	{
+		border-radius: 5px;
+		border: 2px solid orange;
+		box-shadow: 2px 2px 2px orange  ;
+		float: right;
+		height: 170px;
+		margin-top: 20px;
+		margin-right: 20px;
+		width: 20%;
+	}
+
+img
+	{
+		height: 150px;
+		width: 150px;
+	}
+
+h1
+	{
+		color: blue;
+		font-style: italic ;
+		font-size: 1em;
+	}
+
+
+.formation
+	{
+		border-radius: 5px;
+		border: 2px solid pink;
+		float: left;
+		box-shadow: 2px 2px 2px pink ;
+		height: 160px;
+		width: 100%;
+	}
+
+#date
+	{
+		border-radius: 5px;
+		border: 2px solid green;
+		float: left;
+		text-align: center;
+		font-size: 16px;
+		box-shadow: 2px 2px 2px green;
+		width: 10%;
+		height: 100px;
+		margin-left: 10px;
+	}
+
+.école
+	{
+		border-radius: 5px;
+		border: 2px solid blue;
+		float: left;
+		box-shadow: 2px 2px 2px blue;
+		width: 60%;
+		height: 100px;
+		margin-left: 100px;
+	}
+
+
+.expreriences_pro
+	{
+		border-radius: 5px;
+		border: 2px solid pink;
+		float: left;
+		box-shadow: 2px 2px 2px pink;
+		height: 300px;
+		width: 100%;
+		margin-top: 10px;
+	}
+
+.date
+	{
+		border-radius: 5px;
+		border: 2px solid green;
+		float: left;
+		text-align: center;
+		font-size: 16px;
+		box-shadow: 2px 2px 2px green;
+		width: 10%;
+		height: 240px;
+		margin-left: 10px;
+	}
+
+.stages
+	{
+		border-radius: 5px;
+		border: 2px solid blue;
+		float: right;
+		box-shadow: 2px 2px 2px blue;
+		margin-right: 10px;
+		height: 240px;
+		width: 80%;
+	}
+
+
+.langue_et_compétences
+	{
+		border-radius: 5px;
+		border: 2px solid pink;
+		float: left;
+		box-shadow: 2px 2px 2px pink;
+		height: 160px;
+		width: 100%;
+		margin-top: 20px;
+	}
+
+.langue
+	{
+		border-radius: 5px;
+		border: 2px solid green;
+		float: left;
+		box-shadow: 2px 2px 2px green ;
+		width: 10%;
+		height: 100px;
+	}
+
+.compétences
+	{
+		border-radius: 5px;
+		border: 2px solid blue;
+		float: right;
+		box-shadow: 2px 2px 2px blue ;
+		margin-right: 50px;
+		width: 80%;
+		height: 100px;
+
+	}
+
+
+.autre_experiences_et_interets
+	{
+		border-radius: 5px;
+		border: 2px solid pink;
+		float: left;
+		box-shadow: 2px 2px 2px pink ;
+		height: 200px;
+		width: 100%;
+		margin-top: 10px;
+	}
+
+.centre_d_interet
+	{
+		border-radius: 5px;
+		border: 2px solid blue;
+		float: right;
+		box-shadow: 2px 2px 2px blue ;
+		margin-right: 10px;
+		width: 80%;
+		height: 140px;
+	}
